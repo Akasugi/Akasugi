@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... something man, I dunno. I like tModLoader.
 - 📫 How to reach me ... I'm "akasugi" on Discord.
 - 😄 Pronouns: ... I'm a dude.
-- ⚡ Fun fact: ... My dream car is the 2003-2007 Mazda RX-8. I own one.
+- ⚡ Fun fact: ... I'm probably going to steal your code. Sorry. Product of not knowing what any of this is.
 
 <!---
 Akasugi/Akasugi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
